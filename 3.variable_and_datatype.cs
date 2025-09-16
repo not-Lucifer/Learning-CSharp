@@ -1,0 +1,14 @@
+int a = 34;
+float b = 34.4F;
+long c = 35;
+double d = 34.44;
+char e = 'e';
+bool f = true;
+string g = "This is a string";
+Console.WriteLine(a);
+Console.WriteLine(b);
+Console.WriteLine(c);
+Console.WriteLine(d);
+Console.WriteLine(e);
+Console.WriteLine(f);
+Console.WriteLine(g);
