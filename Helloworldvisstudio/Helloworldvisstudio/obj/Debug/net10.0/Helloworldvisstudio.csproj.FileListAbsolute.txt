@@ -1,0 +1,15 @@
+D:\Coding\C#\Helloworldvisstudio\Helloworldvisstudio\bin\Debug\net10.0\Helloworldvisstudio.exe
+D:\Coding\C#\Helloworldvisstudio\Helloworldvisstudio\bin\Debug\net10.0\Helloworldvisstudio.deps.json
+D:\Coding\C#\Helloworldvisstudio\Helloworldvisstudio\bin\Debug\net10.0\Helloworldvisstudio.runtimeconfig.json
+D:\Coding\C#\Helloworldvisstudio\Helloworldvisstudio\bin\Debug\net10.0\Helloworldvisstudio.dll
+D:\Coding\C#\Helloworldvisstudio\Helloworldvisstudio\bin\Debug\net10.0\Helloworldvisstudio.pdb
+D:\Coding\C#\Helloworldvisstudio\Helloworldvisstudio\obj\Debug\net10.0\Helloworldvisstudio.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\C#\Helloworldvisstudio\Helloworldvisstudio\obj\Debug\net10.0\Helloworldvisstudio.AssemblyInfoInputs.cache
+D:\Coding\C#\Helloworldvisstudio\Helloworldvisstudio\obj\Debug\net10.0\Helloworldvisstudio.AssemblyInfo.cs
+D:\Coding\C#\Helloworldvisstudio\Helloworldvisstudio\obj\Debug\net10.0\Helloworldvisstudio.csproj.CoreCompileInputs.cache
+D:\Coding\C#\Helloworldvisstudio\Helloworldvisstudio\obj\Debug\net10.0\Helloworldvisstudio.sourcelink.json
+D:\Coding\C#\Helloworldvisstudio\Helloworldvisstudio\obj\Debug\net10.0\Helloworldvisstudio.dll
+D:\Coding\C#\Helloworldvisstudio\Helloworldvisstudio\obj\Debug\net10.0\refint\Helloworldvisstudio.dll
+D:\Coding\C#\Helloworldvisstudio\Helloworldvisstudio\obj\Debug\net10.0\Helloworldvisstudio.pdb
+D:\Coding\C#\Helloworldvisstudio\Helloworldvisstudio\obj\Debug\net10.0\Helloworldvisstudio.genruntimeconfig.cache
+D:\Coding\C#\Helloworldvisstudio\Helloworldvisstudio\obj\Debug\net10.0\ref\Helloworldvisstudio.dll

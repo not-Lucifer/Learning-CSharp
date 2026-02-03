@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Helloworldvisstudio")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+90bdb31ebad4edae92aa29876403bafc5a9f7847")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a37b87271e4a0a26b9373d14886f906255f4155c")]
 [assembly: System.Reflection.AssemblyProductAttribute("Helloworldvisstudio")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Helloworldvisstudio")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
