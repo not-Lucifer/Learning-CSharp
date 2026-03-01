@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Coding\\C#\\Helloworldvisstudio\\Helloworldvisstudio\\Helloworldvisstudio.csproj",
+      "projectUniqueName": "D:\\Coding\\CSharp\\Helloworldvisstudio\\Helloworldvisstudio\\Helloworldvisstudio.csproj",
       "projectName": "Helloworldvisstudio",
-      "projectPath": "D:\\Coding\\C#\\Helloworldvisstudio\\Helloworldvisstudio\\Helloworldvisstudio.csproj",
+      "projectPath": "D:\\Coding\\CSharp\\Helloworldvisstudio\\Helloworldvisstudio\\Helloworldvisstudio.csproj",
       "packagesPath": "C:\\Users\\amans\\.nuget\\packages\\",
-      "outputPath": "D:\\Coding\\C#\\Helloworldvisstudio\\Helloworldvisstudio\\obj\\",
+      "outputPath": "D:\\Coding\\CSharp\\Helloworldvisstudio\\Helloworldvisstudio\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\amans\\AppData\\Roaming\\NuGet\\NuGet.Config",

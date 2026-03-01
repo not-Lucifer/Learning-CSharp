@@ -1,13 +1,16 @@
-private static string playername
+private static string _playername;
+
+private static string PlayerName
 {
     get
     {
-        return playername;
+        return _playername;
     }
     set
     {
-        playername = value;
+        _playername = value;
     }
 }
-playername = "Not-Lucifer";
-Console.WriteLine(playername);
+
+PlayerName = "Not-Lucifer";
+Console.WriteLine(PlayerName);
